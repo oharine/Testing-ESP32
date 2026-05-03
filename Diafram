@@ -1,0 +1,10 @@
+Panel pin    ESP32 GPIO
+---------    ----------
+VCC          3.3V
+GND          GND
+DIN (MOSI)   GPIO 13
+CLK          GPIO 14
+CS           GPIO 27
+DC           GPIO 33
+RST          GPIO 26
+BUSY         GPIO 32
